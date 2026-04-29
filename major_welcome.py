@@ -3,3 +3,4 @@ major = input("What is your major?")
 
 print("Welcome " + name + " to the " + major + "!")
 print(f"Welcome {name} to {major}!")
+
